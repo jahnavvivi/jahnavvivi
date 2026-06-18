@@ -5,11 +5,10 @@
 
 🌟 **About Me**
 
-- 🎓 I'm a 3rd-year Computer Science Engineering student  
+- 🎓 I'm a 4th-year Computer Science Engineering student  
 - 👩‍💻 I love building full-stack web apps with the **MERN Stack**
-- 🔍 Currently focused on **DSA** and **Competitive Programming**
+- 🔍 Currently focused on **Improving Myself**
 - 🧠 Always exploring new technologies and improving my problem-solving skills
-- 🔭 Currently working on AI Interview-Prep Application (MERN Stack Project)
 
 ---
 
